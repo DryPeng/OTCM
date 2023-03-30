@@ -4,5 +4,7 @@
 ## 语言
 Now in chinese, Change to [English](README.md) 
 
+現在是簡體中文，切換至[繁體中文](README-tc.md)
+
 ## 收录版本
 - 第一版，于2022年6月始，
