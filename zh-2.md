@@ -2,7 +2,7 @@
 一千首歌曲，不仅包含普通话，还有粤语、闽南语等。各种年代/歌手的歌曲，目前来看似乎情歌较多。
 
 ## 语言
-Now in chinese, Change to [English](README.md)
+Now in chinese, Change to [English](README.md) 
 
 ## 收录版本
 - 第一版，于2022年6月始，
