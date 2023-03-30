@@ -7,4 +7,4 @@ One thousand pieces of Chinese (Not only Mandarin, but also Cantonese, Hokkien a
 
 # Frist Version
 
-Start at 2022 july.
+From June 2022,
