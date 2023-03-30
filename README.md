@@ -1,5 +1,5 @@
 # OTCM - One Thousand Chinese Music
-One thousand Chinese (Not only Mandarin, but also Cantonese, Hokkien and other Chinese) music, Every age, every singer. Looks like mostly love songs.
+One thousand Chinese (Not only Mandarin, but also Cantonese, Hokkien and other Chinese) music. Every era, every singer. Looks like mostly love songs.
 
 ## Language
 現在是英文，切換至[繁體中文](README-tc.md)
