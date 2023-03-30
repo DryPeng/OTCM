@@ -3,3 +3,8 @@ One thousand pieces of Chinese (Not only Mandarin, but also Cantonese, Hokkien a
 
 此篇内容为英文，点击此处切换至中文介绍
 中文
+
+
+# Frist Version
+
+Start at 2022 july.
