@@ -7,7 +7,8 @@ Now in Chinese, Change to [English](README.md)
 現在是簡體中文，切換至[繁體中文](README-tc.md)
 
 ## 整理收录版本记录
-- 第一版，于2022年6月始，
+- [第一版](CP1000/README-sc.md)
+   - 于2022年6月始，
 
 ## 整理收录版本规则
 - 无政治倾向（可讽刺）
