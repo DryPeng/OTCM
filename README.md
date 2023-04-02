@@ -7,7 +7,7 @@ One thousand Chinese (Not only Mandarin, but also Cantonese, Hokkien and other C
 现在是英文，切换至[简体中文](README-sc.md)
 
 ## Collect and organize publication records
-- Frist Version
+- [Frist Version](./CP1000)
   - From June 2022,
 
 ## Collect and organize publication rules
