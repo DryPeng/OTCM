@@ -4,8 +4,3 @@
 ## Languages
 
 ## Notes
-
-
-
-
-[< Back](../)
